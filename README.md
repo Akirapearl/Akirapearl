@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I'm currently learning Python & MongoDB
-🔭 I'M using both <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  and <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+🔭 I'm using both <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 
 <!--
 **Akirapearl/Akirapearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
