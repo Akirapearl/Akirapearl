@@ -1,7 +1,10 @@
 ### Hi there 👋
+
+Im currently learning a lot of stuff related to fullstack web developing, mainly around the LAMP stack, but also i want to dive deep inside MERN and/or other languages like Javascript and Python.
+<!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
-<!--
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
