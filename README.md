@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Im currently learning a lot of stuff related to fullstack web developing, mainly around the LAMP stack, but also i want to dive deep inside MERN and/or other languages like Javascript and Python.
+Im currently learning a lot of stuff related to fullstack web developing, mainly around Javascript basics and HTML/CSS (just improving my knowledge around the basics. 
+Im also a sysadmin working as an IT Technician (network monitoring, helpdesk,OS configuring, use of specific software related to the company im working on etc).
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
