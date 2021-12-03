@@ -3,7 +3,7 @@
 As a hobby, im currently learning a lot of stuff related to fullstack web developing, mainly around Javascript basics, soon will dig into tailwindCSS/booststrap and Php. 
 
 
-Im also a sysadmin working full time as an IT Technician (network monitoring, helpdesk,OS configuring, use of specific software related to the company im working on etc).
+Im also a sysadmin working full time as an IT Technician & Sysadmin (network monitoring, helpdesk,OS configuring, use of specific software related to the company im working on etc).
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
