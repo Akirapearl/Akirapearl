@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-As a hobby, im currently learning a lot of stuff related to fullstack web developing, mainly around Javascript basics, soon will dig into tailwindCSS/booststrap and Php. 
+🌱 As a hobby, im a trading card player (mtg) as well as a huge tech and programming enjoyer, currently learning Javascript, soon will dig into that particular language and Php, next step will be looking for frameworks as Symfony(php) and Vue (Javascript) or MERN/MEAN stack. 
 
 
-Im also a sysadmin working full time at a company that operates around my country (Spain), my functions are network monitoring, helpdesk,OS configuring, managing and using specific software and hardware related to the company (recorders, cameras etc).
+⚡ Nowadays i'm a sysadmin working full time at a company that operates around my country (Spain), my functions are network monitoring, helpdesk,OS configuring, managing and using specific software and hardware related to the company (recorders, cameras etc).
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
