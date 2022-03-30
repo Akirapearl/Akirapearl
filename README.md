@@ -5,7 +5,7 @@
 
 ⚡ Nowadays i'm a full time Technical Support Representative for Webhelp.
 
-- 😄 Pronouns: She/Her
+😄 Pronouns: She/Her
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
