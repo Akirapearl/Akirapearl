@@ -3,7 +3,7 @@
 🌱 As a hobby, im a trading card player (mtg) as well as a huge tech and programming enjoyer, currently learning Javascript, soon will dig into that particular language, next step being looking for frameworks as React or fully implemented stacks like MERN. On sysadmin scenario im looking forward to learn about devops technologies like Ansible/Terraform and Docker. 
 
 
-⚡ Nowadays i'm a full time sysadmin at a company that operates around Spain, my functions are network monitoring, helpdesk,OS configuring and managing/using specific software and hardware related to the company (recorders, cameras,desktop or laptop PCs etc).
+⚡ Nowadays i'm a full time Technical Support Representative for Webhelp.
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
