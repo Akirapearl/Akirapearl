@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-🌱 As a hobby, im a Magic The Gathering player, i love reading manga and scifi/young adult novels and huge tech and programming enjoyer, currently learning Golang!. 
-
+🌱 As a hobby, im a Magic The Gathering player, i love reading manga and scifi/young adult novels and i'm currently learning Golang!. 
 
 ⚡ Nowadays i'm a full time Technical Support Representative.
 
