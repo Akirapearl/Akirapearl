@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-🌱 As a hobby, im a Magic The Gathering player, i love reading manga and scifi/young adult novels and i'm currently learning Golang!. 
+🌱 As a hobby, i'm a Magic The Gathering player, i love reading manga and scifi/young adult novels and i'm currently learning Golang and Kubernetes!. 
 
-⚡ Nowadays i'm a full time Technical Support Representative for Apigee/Google Cloud products
+⚡ Nowadays i'm a full time Technical Support Representative for Apigee/Google Cloud products.
 
-😄 Pronouns: She/Her
+🔭 Looking to collaborate on begginer-friendly ptojects, so i can keep on learning new things!
+
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
+😄 Pronouns: She/Her
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
