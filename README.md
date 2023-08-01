@@ -4,7 +4,7 @@
 
 ⚡ Nowadays i'm a full time Technical Support Representative for Apigee/Google Cloud products.
 
-🔭 Looking to collaborate on begginer-friendly ptojects, so i can keep on learning new things!
+🔭 Looking to collaborate on begginer-friendly projects, so i can keep on learning new things!
 
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
