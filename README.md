@@ -6,7 +6,7 @@
 
 🔭 Looking to collaborate on begginer-friendly projects, so i can keep on learning new things!
 
-⚡ Fun fact: Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold.
+🤔 Fun fact: Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold.
 
 Main current known technologies:
 GCP  -  Ansible (Learning)  -  Linux/Windows Administration  -  Golang (Newbie level)  - Frontend Web - SQL DB Queries/Admin (Mid level) - MongoDB (Newbie level)
