@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-🌱 As a hobby, i'm a Magic The Gathering player, i love reading manga and scifi/young adult novels and i'm currently learning Golang and Kubernetes!. 
+🌱 As a hobby, I'm a Magic The Gathering player, I love reading manga and scifi, fantasy and young-adult novels.
 
-⚡ Nowadays i'm a full time Technical Support Representative for Apigee/Google Cloud products.
+⚡ Nowadays i'm a full time Devops Automation Engineer, getting more hands-on into my own IT carreer
 
 🔭 Looking to collaborate on begginer-friendly projects, so i can keep on learning new things!
+
+⚡ Fun fact: Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold.
+
+Main current known technologies:
+GCP  -  Ansible (Learning)  -  Linux/Windows Administration  -  Golang (Newbie level)  - Frontend Web - SQL DB Queries/Admin (Mid level) - MongoDB (Newbie level)
 
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
