@@ -2,7 +2,8 @@
 
 🌱 As a hobby, I'm a Magic The Gathering player, I love reading manga and scifi, fantasy and young-adult novels.
 
-⚡ Nowadays i'm a full time Devops Automation Engineer, getting more hands-on experience into my own IT carreer
+⚡ Nowadays i'm a full time Technical Solution Support Engineer, getting more hands-on experience into my own IT carreer
+      - Previous professional experience as Devops Automation Engineer
 
 🔭 Looking to collaborate on begginer-friendly projects, so i can keep on learning new things!
 
