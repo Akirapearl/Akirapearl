@@ -10,19 +10,19 @@
 
 **Main current known technologies:**
 
-GCP  (Overall knowledge, bit further with Apigee X and GKE/GCE/VPCs) - :white_circle::white_circle::black_circle::black_circle::black_circle:   
+GCP  (Overall intermediate knowledge, bit further with Apigee X and GKE/GCE/VPCs) - :white_circle::white_circle::black_circle::black_circle::black_circle:   
 
-Ansible (Learning, see homelab and Ansible repos for more context)  -  :white_circle::white_circle::black_circle::black_circle::black_circle:   
+Ansible (Learning, see homelab and Ansible repos for more context, begginer level getting more hands-on experience)  -  :white_circle::white_circle::black_circle::black_circle::black_circle:   
 
-Linux/Windows Administration (Experienced, still able to get deeper knowledge) -  :white_circle::white_circle::white_circle::white_circle::black_circle:   
+Linux/Windows Administration (Experienced, still able to get deeper knowledge upon personal or professional environments) -  :white_circle::white_circle::white_circle::white_circle::black_circle:   
 
-Golang (Begginer level)  - :white_circle::black_circle::black_circle::black_circle::black_circle: 
+Golang (Begginer level, made few coding operative tools, check my repo for more (intended to be expanded during the following year)  - :white_circle::black_circle::black_circle::black_circle::black_circle: 
 
-Frontend Web (HTML, CSS, JS/PHP) - :white_circle::white_circle::white_circle::black_circle::black_circle: 
+Frontend Web (HTML, CSS, JS/PHP - Made my own static site & attended a professional-oriente course, also completed freecodecamp's Responsive Web course) - :white_circle::white_circle::white_circle::black_circle::black_circle: 
 
-SQL DB Queries/Admin - :white_circle::white_circle::black_circle::black_circle::black_circle:   
+SQL DB Queries/Admin (Lower professional experience, but used-to work around SQL environments with Oracle/SQL) - :white_circle::white_circle::white_circle::black_circle::black_circle:   
 
-MongoDB (Begginer level)  - :white_circle::black_circle::black_circle::black_circle::black_circle: 
+MongoDB (Begginer level, attended some courses at MongoDB University's online free options)  - :white_circle::black_circle::black_circle::black_circle::black_circle: 
 
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
