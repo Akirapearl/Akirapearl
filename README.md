@@ -10,6 +10,10 @@
 
 **Main current known technologies:**
 
+Kubernetes/Docker + Jenkins CI/CD (Local deployments and Professional experience managing a cluster via TTY and Rancher GUI).
+
+:white_circle::white_circle::black_circle::black_circle::black_circle: 
+
 GCP  (Overall intermediate knowledge, bit further with Apigee X and GKE/GCE/VPCs) - 
 
 :white_circle::white_circle::black_circle::black_circle::black_circle:   
