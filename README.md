@@ -8,7 +8,7 @@
 
 🤔 Fun fact: Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold.
 
-Main current known technologies:
+**Main current known technologies:**
 
 GCP  (Overall knowledge, bit further with Apigee X and GKE/GCE/VPCs) - :white_circle::white_circle::black_circle::black_circle::black_circle:   
 
@@ -18,7 +18,7 @@ Linux/Windows Administration (Experienced, still able to get deeper knowledge) -
 
 Golang (Begginer level)  - :white_circle::black_circle::black_circle::black_circle::black_circle: 
 
-Frontend Web (HTML, CSS, JS/PHP) - :white_circle::white_circle::black_circle::black_circle::black_circle: 
+Frontend Web (HTML, CSS, JS/PHP) - :white_circle::white_circle::white_circle::black_circle::black_circle: 
 
 SQL DB Queries/Admin - :white_circle::white_circle::black_circle::black_circle::black_circle:   
 
