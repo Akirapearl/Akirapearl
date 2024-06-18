@@ -22,11 +22,11 @@ Linux/Windows Administration (Experienced, still able to get deeper knowledge up
 
 :white_circle::white_circle::white_circle::white_circle::black_circle:   
 
-Golang (Begginer level, made few coding operative tools, check my repo for more (intended to be expanded during the following year)  - 
+Golang (Begginer level, made few tools, check my repo for more (intended to be expanded during the following year))  - 
 
 :white_circle::black_circle::black_circle::black_circle::black_circle: 
 
-Frontend Web (HTML, CSS, JS/PHP - Made my own static site & attended a professional-oriente course, also completed freecodecamp's Responsive Web course) - 
+Frontend Web (HTML, CSS, JS/PHP - Attended a professional-oriented course, also freecodecamp's Responsive Web course) - 
 
 :white_circle::white_circle::white_circle::black_circle::black_circle: 
 
