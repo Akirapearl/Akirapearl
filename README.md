@@ -9,7 +9,20 @@
 🤔 Fun fact: Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold.
 
 Main current known technologies:
-GCP  -  Ansible (Learning)  -  Linux/Windows Administration  -  Golang (Newbie level)  - Frontend Web - SQL DB Queries/Admin (Mid level) - MongoDB (Newbie level)
+
+GCP  (Overall knowledge, bit further with Apigee X and GKE/GCE/VPCs) - :white_circle::white_circle::black_circle::black_circle::black_circle:   
+
+Ansible (Learning, see homelab and Ansible repos for more context)  -  :white_circle::white_circle::black_circle::black_circle::black_circle:   
+
+Linux/Windows Administration (Experienced, still able to get deeper knowledge) -  :white_circle::white_circle::white_circle::white_circle::black_circle:   
+
+Golang (Begginer level)  - :white_circle::black_circle::black_circle::black_circle::black_circle: 
+
+Frontend Web (HTML, CSS, JS/PHP) - :white_circle::white_circle::black_circle::black_circle::black_circle: 
+
+SQL DB Queries/Admin - :white_circle::white_circle::black_circle::black_circle::black_circle:   
+
+MongoDB (Begginer level)  - :white_circle::black_circle::black_circle::black_circle::black_circle: 
 
 <!--
 🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
