@@ -1,5 +1,23 @@
-### Hi there 👋
+<h2> Hi there 👋! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://cdn.wallpapersafari.com/10/45/3euNsd.jpg" width="230">
+<p><em>L2 Technical Solution Support Engineer</em></p>
 
+[![Linkedin: sergiodomingo](https://img.shields.io/badge/-Sergio&nbsp;Domingo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-d-3975791a4/)](https://www.linkedin.com/in/sergio-d-3975791a4/)
+[![GitHub Akirapearl](https://img.shields.io/github/followers/Akirapearl?label=follow&style=social)](https://github.com/Akirapearl)
+
+
+### <img src="https://media.tenor.com/3arJZZkFW6kAAAAi/dancing-duck-danse.gif" width="50"> A little more about me...  
+
+```javascript
+const esp/eng/cat = {
+  code: [Javascript, HTML, CSS, Golang],
+  tools: [Linux, Windows, Google Cloud, Ansible, Docker, Kubernetes, MySQL, MongoDB],
+  architecture: ["Microservices", "Webapps", "LAMP", "View Controller"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on Ansible and Web-dev technologies"
+  funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
+}
+```
+<!--
 🌱 As a hobby, I'm a Magic The Gathering player, I love reading manga and scifi, fantasy and young-adult novels.
 
 ⚡ Nowadays i'm a full time Technical Solution Support Engineer, getting more hands-on experience into my own IT carreer. Previous professional experience as Devops Automation Engineer
@@ -42,29 +60,13 @@ MongoDB (Begginer level, attended some courses at MongoDB University's online fr
 
 :white_circle::black_circle::black_circle::black_circle::black_circle: 
 
-<!--
-🌱 Currently learning <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-😄 Pronouns: She/Her
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
-
-<!--🔭 Using both <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>-->
-
-<!--
-📫 How to reach me: <a href="https://www.linkedin.com/in/sergio-d-3975791a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-**Akirapearl/Akirapearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ pronouns: "she" | "her",
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
 -->
+
+---
+README OG Concept found here: https://github.com/Thaiane/Thaiane
