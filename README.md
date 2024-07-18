@@ -1,14 +1,18 @@
+<p>
 <h2> Hi there 👋! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://cdn.wallpapersafari.com/10/45/3euNsd.jpg" width="230">
-<p><em>L2 Technical Solution Support Engineer</em></p>
+<img align='right' src="https://cdn.wallpapersafari.com/10/45/3euNsd.jpg" width="230"> 
+
+![GitHub Akirapearl](https://img.shields.io/github/followers/Akirapearl?label=follow&style=social)
+
+</p>
+
 <!--
 [![Linkedin: sergiodomingo](https://img.shields.io/badge/-Sergio&nbsp;Domingo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-d-3975791a4/)](https://www.linkedin.com/in/sergio-d-3975791a4/)
 -->
 
-![GitHub Akirapearl](https://img.shields.io/github/followers/Akirapearl?label=follow&style=social)
-
-
 ### <img src="https://media.tenor.com/3arJZZkFW6kAAAAi/dancing-duck-danse.gif" width="50"> A little more about me...  
+
+<p><em>L2 Technical Solution Support Engineer</em></p>
 
 ```javascript
 const esp/eng/cat = {
@@ -19,6 +23,13 @@ const esp/eng/cat = {
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
 ```
+![Main OS Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![OS Windows badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ansible badge](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Golang badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MySQL badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 <!--
 🌱 As a hobby, I'm a Magic The Gathering player, I love reading manga and scifi, fantasy and young-adult novels.
 
@@ -34,6 +45,8 @@ const esp/eng/cat = {
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
+
+![Show Dev Level](https://github-readme-stats.vercel.app/api?username=Akirapearl&theme=blue-green)
 -->
 
 ---
