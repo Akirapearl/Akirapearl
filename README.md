@@ -1,9 +1,9 @@
 <p>
-<h2> Hi there 👋! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://cdn.wallpapersafari.com/10/45/3euNsd.jpg" width="230"> 
-
-![GitHub Akirapearl](https://img.shields.io/github/followers/Akirapearl?label=follow&style=social)
-
+<h2> Hi there 👋! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  
+  ![GitHub Akirapearl](https://img.shields.io/github/followers/Akirapearl?label=follow&style=social)
+</h2>
+<img align='right' src="https://cdn.wallpapersafari.com/10/45/3euNsd.jpg"  width="200"> 
 </p>
 
 <!--
@@ -23,6 +23,7 @@ const esp/eng/cat = {
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
 ```
+<!--
 ![Main OS Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![OS Windows badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ansible badge](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -30,6 +31,8 @@ const esp/eng/cat = {
 ![MySQL badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Jenkins badge](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+
+-->
 <!--
 🌱 As a hobby, I'm a Magic The Gathering player, I love reading manga and scifi, fantasy and young-adult novels.
 
