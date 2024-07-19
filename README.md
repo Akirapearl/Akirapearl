@@ -1,7 +1,6 @@
 <p>
 <h2> Hi there 👋! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-  
-  ![GitHub Akirapearl](https://img.shields.io/github/followers/Akirapearl?label=follow&style=social)
+<!--![GitHub Akirapearl](https://img.shields.io/github/followers/Akirapearl?label=follow&style=social) -->
 </h2>
 <img align='right' src="https://cdn.wallpapersafari.com/10/45/3euNsd.jpg"  width="200"> 
 </p>
