@@ -15,9 +15,9 @@
 
 ```javascript
 const esp/eng/cat = {
-  code: [Golang, Javascript, HTML, CSS, PHP],
+  code: [GO, HTML, CSS, PHP, JS],
   tools: [Google Cloud, Ansible, Docker, Kubernetes, Linux/Windows, MySQL, MongoDB],
-  architecture: ["Microservices", "Webapps"],
+  architecture: ["Microservices", "Webapps", "Cloud"],
   challenge: "I am doing the #100DaysOfCode challenge focused on Golang!",
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
