@@ -4,14 +4,14 @@
 </h2>
 <img align='right' src="https://cdn.wallpapersafari.com/10/45/3euNsd.jpg"  width="200"> 
 </p>
-
+<p><em>L2 Technical Solution Support Engineer</em></p>
 <!--
 [![Linkedin: sergiodomingo](https://img.shields.io/badge/-Sergio&nbsp;Domingo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-d-3975791a4/)](https://www.linkedin.com/in/sergio-d-3975791a4/)
 -->
 
-### <img src="https://media.tenor.com/3arJZZkFW6kAAAAi/dancing-duck-danse.gif" width="50"> A little more about me...  
+### <img src="https://media.tenor.com/3arJZZkFW6kAAAAi/dancing-duck-danse.gif" width="50"> A bit about me...  
 
-<p><em>L2 Technical Solution Support Engineer</em></p>
+
 
 ```javascript
 const esp/eng/cat = {
