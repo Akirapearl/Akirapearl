@@ -20,7 +20,7 @@ const esp/eng/cat = {
   architecture: ["Microservices", "Webapps", "Cloud"],
   challenge: {
             2024JUL: "#100DaysOfCode - Golang",
-            2024OCT: "AdventOfCode - Day 3 - 2023 proposals"
+            2024OCT: "AdventOfCode - 2023 proposals"
           },
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
