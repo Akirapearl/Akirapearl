@@ -18,13 +18,15 @@ const esp/eng/cat = {
   code: [GO, HTML, CSS, PHP, JS],
   tools: [Google Cloud, Ansible, Docker, Kubernetes, Linux/Windows, MySQL, MongoDB],
   architecture: ["Microservices", "Webapps", "Cloud"],
-  challenge: {
+  projects: {
             2024JUL: "#100DaysOfCode - Golang",
             2024OCT: "AdventOfCode - 2023 proposals"
           },
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
 ```
+
+
 <!--
 ![Main OS Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![OS Windows badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
