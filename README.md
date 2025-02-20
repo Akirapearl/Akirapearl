@@ -15,7 +15,7 @@
 
 ```javascript
 const aboutme = {
-  lang: "spanish, english, catalonian"
+  lang: "spanish, english, catalonian",
   code: [GO, HTML, CSS, PHP, JS],
   tools: [Google Cloud, Ansible, Docker, Kubernetes, Linux/Windows, MySQL, MongoDB],
   architecture: ["Microservices", "Webapps", "Cloud"],
