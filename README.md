@@ -20,8 +20,10 @@ const aboutme = {
   tools: [Google Cloud, Ansible, Docker, Kubernetes, Linux/Windows, MySQL, MongoDB],
   architecture: ["Microservices", "Webapps", "Cloud"],
   projects: {
-            2024JUL: "#100DaysOfCode - Golang",
+            2024JUL: "Learning Golang",
             2024OCT: "AdventOfCode - 2023 proposals"
+            2024DIC: "API Client - Backend - Go"
+            2025FEB: "API Fullstack - Frontend - Go + Templ + HTMX"
           },
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
