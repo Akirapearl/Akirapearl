@@ -23,7 +23,7 @@ const aboutme = {
             2024JUL: "Learning Golang",
             2024OCT: "AdventOfCode - 2023 proposals"
             2024DIC: "API Client - Backend - Go"
-            2025FEB: "API Fullstack - Frontend - Go + Templ + HTMX"
+            2025FEB: "API Fullstack - Frontend - Go + Templ + HTMX + Tailwind CSS"
           },
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
