@@ -21,8 +21,9 @@ const aboutme = {
   architecture: ["Microservices", "Webapps", "Cloud"],
   projects: {
             2024JUL: "Learning Golang",
-            2024OCT: "AdventOfCode - 2023 proposals"
-            2024DIC: "API Client - Backend - Go"
+            2024Q4: "AdventOfCode, URL Shortener, Password Manager - Golang"
+            2024DIC: "API Client & Backend - Golang/MySQL"
+            2025FEB: "Re-started Homelab Project - Ansible/Proxmox"
           },
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
