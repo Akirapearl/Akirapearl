@@ -16,14 +16,15 @@
 ```javascript
 const aboutme = {
   lang: "spanish, english, catalonian",
-  code: [GO, HTML, CSS, TailwindCSS, PHP],
+  code: ["GO", "HTML", "CSS / TailwindCSS", "PHP"],
   tools: [Google Cloud, Ansible, Docker, Kubernetes, Linux/Windows, MySQL, MongoDB],
   architecture: ["Microservices", "Webapps", "Cloud"],
   projects: {
-            2024JUL: "Learning Golang",
-            2024Q4: "AdventOfCode, URL Shortener, Password Manager - Golang"
-            2024DIC: "API Client & Backend - Golang/MySQL"
-            2025FEB: "Re-started Homelab Project - Ansible/Proxmox"
+            2024JUL: "Started learning Golang",
+            2024Q4: "AdventOfCode, URL Shortener, Password Manager - Golang",
+            2024DIC: "API Client & Backend - Golang/MySQL",
+            2025FEB: "Re-started Homelab Project - Ansible/Proxmox",
+            2025MAR: "New personal website - TailwindCSS"
           },
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
