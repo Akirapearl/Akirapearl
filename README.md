@@ -7,6 +7,13 @@
 <p><em>L2 Technical Solution Support Engineer</em></p>
 <!--
 [![Linkedin: sergiodomingo](https://img.shields.io/badge/-Sergio&nbsp;Domingo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-d-3975791a4/)](https://www.linkedin.com/in/sergio-d-3975791a4/)
+  projects: {
+            2024JUL: "Started learning Golang",
+            2024Q4: "AdventOfCode, URL Shortener, Password Manager - Golang",
+            2024DIC: "API Client & Backend - Golang/MySQL",
+            2025FEB: "Re-started Homelab Project - Ansible/Proxmox",
+            2025MAR: "New personal website - TailwindCSS"
+          },
 -->
 
 ### <img src="https://media.tenor.com/3arJZZkFW6kAAAAi/dancing-duck-danse.gif" width="50"> A bit about me...  
@@ -19,13 +26,6 @@ const aboutme = {
   code: ["GO", "HTML", "CSS / TailwindCSS", "PHP"],
   tools: [Google Cloud, Ansible, Docker, Kubernetes, Linux/Windows, MySQL, MongoDB],
   architecture: ["Microservices", "Webapps", "Cloud"],
-  projects: {
-            2024JUL: "Started learning Golang",
-            2024Q4: "AdventOfCode, URL Shortener, Password Manager - Golang",
-            2024DIC: "API Client & Backend - Golang/MySQL",
-            2025FEB: "Re-started Homelab Project - Ansible/Proxmox",
-            2025MAR: "New personal website - TailwindCSS"
-          },
   funfact: "Ducks feet have no nerves or blood vessels, meaning their feet don’t feel the cold".
 }
 ```
