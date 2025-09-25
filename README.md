@@ -4,7 +4,7 @@
 </h2>
 <img align='right' src="https://cdn.wallpapersafari.com/10/45/3euNsd.jpg"  width="200"> 
 </p>
-<p><em>L2 Technical Solution Support Engineer</em></p>
+<p><em>Junior Devops - Golang & Ansible rookie</em></p>
 <!--
 [![Linkedin: sergiodomingo](https://img.shields.io/badge/-Sergio&nbsp;Domingo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-d-3975791a4/)](https://www.linkedin.com/in/sergio-d-3975791a4/)
   projects: {
